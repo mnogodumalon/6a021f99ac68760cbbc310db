@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "forms": [
+    {
+      "entity": "test",
+      "app_id": "6a021f8f51c0cac6488e2325",
+      "path": "/rest/apps/6a021f8f51c0cac6488e2325/records",
+      "allowed_fields": [
+        "vorname",
+        "nachname",
+        "email",
+        "nachricht"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Test — Form"
+    }
+  ]
+}
